@@ -1,4 +1,4 @@
-<h3 align = 'center'>Bienvenido a mi Github, soy Jaareet</h3>
+<h3 align = 'center'>Bienvenido a mi Github, soy Maarc</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
@@ -32,7 +32,7 @@ Mi página web
 ```
     
 ```diff
-https://Jaareet.github.io/main
+https://Maarc.github.io/main
 ```
     
 <hr>
@@ -41,8 +41,8 @@ https://Jaareet.github.io/main
 
 ### Estadisticas de mi perfil !
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=Jaareet&show_icons=true&theme=tokyonight&hide=["issues"])
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=Maarc&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Jaareet&show_icons=true&theme=tokyonight&layout=compact)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Maarc&show_icons=true&theme=tokyonight&layout=compact)
     
 <hr>
