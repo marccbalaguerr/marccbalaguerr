@@ -1,7 +1,7 @@
 <h3 align = 'center'>Bienvenido a mi Github, soy Maarc</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenide" />
 </p>
 
 <hr>
