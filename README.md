@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<img align="left" height="250" src="https://cdn.discordapp.com/avatars/892848491401986078/f31edffa70d083e2d9e346833458e7dc.png?size=1024"/>
+<img align="left" height="250" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png"/>
 
 ```diff
 @@ Recepción @@
