@@ -24,16 +24,7 @@ Discord Community: https://discord.gg/EhrPUjVsXX
 Discord Profile
 ```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/892848491401986078)](https://discord.com/users/892848491401986078)
-    
-    
-    
-```diff
-Mi página web
-```
-    
-```diff
-https://Maarc.github.io/main
-```
+
     
 <hr>
     
