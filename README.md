@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<img align="left" height="250" src="https://cdn.discordapp.com/avatars/886670803234594856/f31edffa70d083e2d9e346833458e7dc.png?size=1024"/>
+<img align="left" height="250" src="https://cdn.discordapp.com/avatars/892848491401986078/f31edffa70d083e2d9e346833458e7dc.png?size=1024"/>
 
 ```diff
 @@ Recepción @@
@@ -23,7 +23,7 @@ Discord Community: https://discord.gg/EhrPUjVsXX
 ```diff
 Discord Profile
 ```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/https://lanyard-profile-readme.vercel.app/api/892848491401986078)](https://discord.com/users/892848491401986078)
     
     
     
